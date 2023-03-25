@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "109919930711",
+    "project_id": "otp-testin",
+    "storage_bucket": "otp-testin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:109919930711:android:b626877a54ab42606f1612",
+        "android_client_info": {
+          "package_name": "com.priyaofinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "109919930711-fsse653ol9cu233loqvug712d43tn9p0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.priyaofinal",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "109919930711-9nu9vp3mkun3pvg58ijhdo36039il68n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUwhpW4uWVzSUNiNKXqL7LIZQWpvhp1fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "109919930711-9nu9vp3mkun3pvg58ijhdo36039il68n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
